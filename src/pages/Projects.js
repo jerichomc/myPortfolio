@@ -10,7 +10,7 @@ function Projects() {
             title: 'Task Manager ✅',
             description: 'Simple task manager web application using React.',
             tech: 'React, JavaScript, CSS, Local Storage',
-            link: '#',
+            link: 'https://jerichomc.github.io/taskManager/',
         },
         {
             title: 'Yahtzee Game 🎲',
