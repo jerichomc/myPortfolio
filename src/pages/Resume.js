@@ -1,13 +1,14 @@
+import React from 'react';
 
 function Resume() {
     return (
-        <div>
+        <div className="resume-container">
             <h1>Resume</h1>
-            <a href="/resume.docx" download="myResume.docx">
-                <button>Download Resume</button>
+            <p>Click the button below to download my resume.</p>
+            <a href="/resume.docx" download="Jericho_McCullough_Resume.docx">
+                <button className="download-btn">Download Resume</button>
             </a>
         </div>
-        
     );
 }
 
