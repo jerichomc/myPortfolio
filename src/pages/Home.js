@@ -11,7 +11,7 @@ function Home() {
       <div className="home-cards-container">
         <div className="info-card">
           <img
-            src="/cartoon.png"
+            src={`${process.env.PUBLIC_URL}/cartoon.png`}
             alt="Jericho McCullough"
             className="profile-image"
           />
