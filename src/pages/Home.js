@@ -5,13 +5,13 @@ function Home() {
     <div className="home-container">
       <h1>Welcome to My Portfolio</h1>
       <p className="home-subtext">
-        Crafting efficient and user-friendly applications with passion.
+       
       </p>
 
       <div className="home-cards-container">
         <div className="info-card">
           <img
-            src="/percy.jpg"
+            src="/cartoon.png"
             alt="Jericho McCullough"
             className="profile-image"
           />
@@ -29,17 +29,16 @@ function Home() {
         <div className="bio-card">
           <h2>About Me</h2>
           <p>
-            I'm a software engineering student passionate about building
-            intuitive and scalable web applications. With a focus on user
-            experience and problem-solving, I'm continuously expanding my skill
-            set in modern technologies.
+          I'm a software engineering student passionate about developing
+           applications that deliver real-world value to users.
+            I’m always seeking opportunities to enhance my skills
+             and stay up to date with emerging technologies to create
+              more effective and impactful solutions.
           </p>
           <p>
             I've always had an interest in tech, and for me, starting to code
-            was a thrill. I enjoy solving real-world problems and creating fun,
-            interactive applications using code. Being able to take an idea and
-            transform it into a fully functional application is what drives me
-            every day.
+            was a thrill. I enjoy solving real-world problems and creating fun/interactive applications.
+            The ability to turn an idea into a fully functional application is what inspires me every day.
           </p>
           <p>
             Outside of coding, I enjoy watching movies, playing video games, and
